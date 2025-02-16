@@ -2,6 +2,7 @@
   "name": "vanilla-app-template",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://Vikcy0yef.github.io/goit-js-hw-10",  
   "type": "module",
   "scripts": {
     "dev": "vite",
